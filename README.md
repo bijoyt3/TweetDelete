@@ -42,13 +42,13 @@ Please enter your desired date and press enter (MM/DD/YYYY): 01/14/2020
 
 Processing...
 
-There are 84 tweets equal to or older than 01/14/2020. 
+There are 50 tweets equal to or older than 01/14/2020. 
 
 Are you sure you want to delete these tweets? (Y/N): Y
 
 Deleting tweets...
 
-84 tweets deleted.
+50 tweets deleted.
 ```
 ### After:
 
