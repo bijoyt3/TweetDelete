@@ -14,7 +14,7 @@ After installing tweepy, you will have to create an app through Twitter Develope
 
 ## OAuth Process via Unique PIN
 
-I intentionally developed a more shareable "login" methodology to test third-party login functionality of the Twitter API. In this method, the user is given an authentication link to authorize the app's functionality on their personal account. When visiting the authentication link, the user is prompted to authorize the app's permissions. Once authorized, the user is presented with a unique pin that allows the app to access their account. 
+I intentionally developed the login function to go through the authentication process via a unique PIN to test third-party login functionality of the Twitter API. In this method, the user is given an authentication link to authorize the app's functionality on their personal account. When visiting the authentication link, the user is prompted to authorize the app's permissions. Once authorized, the user is presented with a unique pin that allows the app to access their account. 
 
 ## Example Console Output
 
