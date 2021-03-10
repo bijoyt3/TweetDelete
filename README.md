@@ -3,11 +3,18 @@ This script deletes tweets equal to or older than a user inputted date.
 
 ## Dependencies
 
-tweepy 3.10.0
-
 ```
 pip install tweepy
+tweepy.__version__ = 3.10.0
 ```
+
+## Setup
+
+After installing tweepy, you will have to create an app through Twitter Developer to acquire the consumer key and consumer secret key. The approval process for app development is relatively quick, it should take you no longer than the time it takes to submit the approval application. 
+
+## OAuth Process via Unique PIN
+
+I intentionally developed a more shareable "login" methodology to test third-party login functionality of the Twitter API. In this method, the user is given an authentication link to authorize the app's functionality on their personal account. When visiting the authentication link, the user is prompted to authorize the app's permissions. Once authorized, the user is presented with a unique pin that allows the app to access their account. 
 
 ## Example Console Output
 
