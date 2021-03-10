@@ -26,8 +26,8 @@ Copy and paste the link above in your browser and follow the steps below.
 3. Copy the 7 digit pin onto clipboard
 4. Paste the PIN below and press enter
 
-PIN: 3827346
-Successfully logged in as: @YaBoyBijoy
+PIN: [OAUTH PIN]
+Successfully logged in as: @[SCREEN NAME]
 
 Welcome to the bulk tweet deleter. This script will permanently delete your tweets equal to or older than a specified date.
 
