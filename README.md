@@ -20,7 +20,7 @@ I intentionally developed the login function to go through the authentication pr
 
 ### Before:
 
-![Before](https://github.com/bijoyt3/TweetDelete/blob/main/assets/After.jpg?raw=true)
+https://github.com/bijoyt3/TweetDelete/blob/main/assets/After.jpg?raw=true
 
 ### Execution:
 
