@@ -45,7 +45,7 @@ Deleting tweets...
 ```
 ### After:
 
-![After](image_src)
+![After]("https://user-images.githubusercontent.com/7709854/110645790-48160180-8184-11eb-86e7-5f901f79c56f.png")
 
 ## Acknowledgements
 Spent quite some time on the tweepy documentation page (https://docs.tweepy.org/en/latest/) and StackOverflow
