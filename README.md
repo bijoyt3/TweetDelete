@@ -29,28 +29,30 @@ https://github.com/bijoyt3/TweetDelete/blob/main/assets/After.jpg?raw=true
 ```
 https://api.twitter.com/oauth/authorize?oauth_token=[OAUTH TOKEN]
 
-Copy and paste the link above in your browser and follow the steps below.
-1. Login to your account
-2. Allow access to the app
-3. Copy the 7 digit pin onto clipboard
-4. Paste the PIN below and press enter
+Copy and paste the link above in your browser and follow the steps below:
 
-PIN: [OAUTH PIN]
+          1. Login to your Twitter account.
+          2. Authorize access to your account.
+          3. Copy the 7 digit pin onto your clipboard.
+          4. Paste the PIN below and press Enter.
+
+PIN: 3247223
 Successfully logged in as: @[SCREEN NAME]
 
 Welcome to the bulk tweet deleter. This script will permanently delete your tweets equal to or older than a specified date.
 
-Please enter your desired date and press enter (MM/DD/YYYY): 01/14/2020
+Please enter your desired date and press enter (MM/DD/YYYY): 03/01/2020
 
 Processing...
 
-There are 50 tweets equal to or older than 01/14/2020. 
+There are 3 tweets equal to or older than 03/01/2020. 
 
 Are you sure you want to delete these tweets? (Y/N): Y
 
 Deleting tweets...
 
-50 tweets deleted.
+3 tweets deleted.
+There were no errant deletes.
 ```
 ### After:
 
