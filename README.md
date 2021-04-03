@@ -36,7 +36,7 @@ Copy and paste the link above in your browser and follow the steps below:
           3. Copy the 7 digit pin onto your clipboard.
           4. Paste the PIN below and press Enter.
 
-PIN: 3247223
+PIN: [7 DIGIT PIN]
 Successfully logged in as: @[SCREEN NAME]
 
 Welcome to the bulk tweet deleter. This script will permanently delete your tweets equal to or older than a specified date.
@@ -55,8 +55,7 @@ Deleting tweets...
 There were no errant deletes.
 ```
 ### After:
-
-
+![AFTER](https://user-images.githubusercontent.com/7709854/113493754-4eac4600-94b0-11eb-92ce-5ef521666bfa.png)
 
 ## Acknowledgements
 Spent quite some time on the tweepy documentation page (https://docs.tweepy.org/en/latest/) and StackOverflow
