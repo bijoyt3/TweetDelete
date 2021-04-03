@@ -22,7 +22,7 @@ In this method, the user is given an authentication link to authorize the app's 
 
 ### Before:
 
-https://github.com/bijoyt3/TweetDelete/blob/main/assets/After.jpg?raw=true
+![BEFORE](https://user-images.githubusercontent.com/7709854/113493720-055bf680-94b0-11eb-9f95-8667a66ac053.png)
 
 ### Execution:
 
