@@ -22,7 +22,7 @@ In this method, the user is given an authentication link to authorize the app's 
 
 ### Before:
 
-![BEFORE](https://user-images.githubusercontent.com/7709854/113493720-055bf680-94b0-11eb-9f95-8667a66ac053.png)
+![BEFORE](https://user-images.githubusercontent.com/7709854/113493742-34726800-94b0-11eb-8deb-35a9b224b49c.png)
 
 ### Execution:
 
@@ -56,7 +56,7 @@ There were no errant deletes.
 ```
 ### After:
 
-![After]("https://github.com/bijoyt3/TweetDelete/blob/main/assets/Before.jpg?raw=true")
+
 
 ## Acknowledgements
 Spent quite some time on the tweepy documentation page (https://docs.tweepy.org/en/latest/) and StackOverflow
